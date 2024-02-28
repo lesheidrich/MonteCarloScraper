@@ -1,0 +1,14 @@
+[MASTER]
+
+
+disable=
+    too-few-public-methods,
+    protected-access,
+    expression-not-assigned,
+    too-many-arguments,
+    too-many-instance-attributes,
+    invalid-name,
+    too-many-statements
+
+max-line-length=110
+
